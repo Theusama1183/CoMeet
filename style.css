@@ -1,0 +1,27 @@
+div#coomeet_container {
+    width: 100% !important;
+    height: auto !important;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+iframe#coomeet {
+    width: 860px !important;
+    height: 660px !important;
+}
+.main-container {
+    background: #0e4263;
+}
+a.logo {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+.app-links {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
